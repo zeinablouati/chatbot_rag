@@ -2,7 +2,7 @@ from pydantic_settings import BaseSettings
 
 class Settings(BaseSettings):
     api_port: int = 8000
-    embedding_model: str 
+    embedding_model: str = "all-MiniLM-L6-v2" 
     gemini_api_key: str 
     gemini_model_name: str 
 

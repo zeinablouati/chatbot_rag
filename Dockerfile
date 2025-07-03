@@ -18,6 +18,10 @@ COPY streamlit_app ./streamlit_app
 ENV API_PORT=8000
 EXPOSE 8000 8501
 
+# Copier le .env pour que Pydantic-Settings le lise
+COPY .env .env
+
+
 # 4) Lancer API et UI en parallèle
 CMD ["bash", "-lc", "\
     uvicorn backend.app.main:app --host 0.0.0.0 --port $API_PORT & \

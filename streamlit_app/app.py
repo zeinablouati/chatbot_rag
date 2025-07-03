@@ -34,7 +34,7 @@ with chat_container:
               .markdown(f"{msg['content']}  \n_<sub>{ts}</sub>")
 
 # --- 4) Input utilisateur ---
-question = st.chat_input("Votre questinnnnnnnnnnnnon…")
+question = st.chat_input("Votre questinnnnnnnnnnnnon.…")
 if question:
     # 4.1) Ajoute et réaffiche la bulle user
     st.session_state.chat_history.append({

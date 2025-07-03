@@ -1,12 +1,8 @@
 [
-  {
-    "query":     "Qu'est-ce qu'un CDD ?",
-    "predicted": "Un contrat à durée déterminée (CDD) est un contrat temporaire…",
-    "reference": "Le CDD est un contrat de travail conclu pour une durée limitée…"
-  },
+ 
   {
     "query":     "Quelles sont les conditions de licenciement ?",
-    "predicted": "Tout licenciement doit avoir une cause réelle et sérieuse…",
+    "predicted": "Les conditions de licenciement impliquent le respect de procédures légales (consultation des représentants du personnel, information de l'administration), l'existence d'une cause réelle et sérieuse (sauf cas spécifiques comme la grossesse où des règles particulières s'appliquent), et l'absence de violation d'une liberté fondamentale, sous peine de nullité et de potentielles indemnisations pour le salarié.",
     "reference": "Le licenciement pour motif personnel requiert une cause réelle et sérieuse…"
   }
 ]

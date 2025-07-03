@@ -18,7 +18,7 @@ from backend.app.core.config import settings
 # Configuration des chemins
 project_root = Path(__file__).resolve().parents[3]
 data_dir = project_root / "data"
-chunks_dir = data_dir / "processed" / "chunks"
+chunks_dir = data_dir / "processed" / "articles"
 vectorstore_dir = data_dir / "vectorstore"
 
 # Chargement des chunks de texte
