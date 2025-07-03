@@ -1,0 +1,36 @@
+x sexes, il est procédé à l'arrondi arithmétique suivant :
+
+1° Arrondi à l'entier supérieur en cas de décimale supérieure ou égale à 5 ;
+
+2° Arrondi à l'entier inférieur en cas de décimale strictement inférieure à 5.
+
+En cas de nombre impair de sièges à pourvoir et de stricte égalité entre les femmes et les hommes inscrits sur
+les listes électorales, la liste comprend indifféremment un homme ou une femme supplémentaire.
+
+Code du travail - Dernière modification le 23 juin 2025 - Document généré le 23 juin 2025
+
+ 
+ 
+  
+ 
+ 
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+Lorsque l'application de ces règles conduit à exclure totalement la représentation de l'un ou l'autre sexe, les
+listes de candidats pourront comporter un candidat du sexe qui, à défaut ne serait pas représenté. Ce candidat
+ne peut être en première position sur la liste.
+
+Le présent article s'applique à la liste des membres titulaires du comité social et économique et à la liste de
+ses membres suppléants.
+
+Article L2314-31
+
+Dès qu'un accord
