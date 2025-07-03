@@ -1,0 +1,33 @@
+res textiles ne comportent aucun nœud, liaison ou épissure autres que
+ceux de l'extrémité de l'élingue ou de bouclage d'une élingue sans fin ;
+
+Code du travail - Dernière modification le 23 juin 2025 - Document généré le 23 juin 2025
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+d) Le coefficient d'utilisation de tous les composants métalliques d'une élingue, ou utilisés avec une élingue,
+est choisi de manière à garantir un niveau de sécurité adéquat ; ce coefficient est, en règle générale, égal à 4 ;
+
+e) La charge maximale d'utilisation d'une élingue multibrin est déterminée sur la base du coefficient
+d'utilisation du brin le plus faible, du nombre de brins et d'un facteur minorant qui dépend du mode
+d'élingage ;
+
+f) Afin de vérifier si le coefficient d'utilisation adéquat est atteint, le fabricant effectue ou fait effectuer les
+essais appropriés pour chaque type d'élément mentionné aux points a, b, c et d.
+
+4.1.2.6. Contrôle des mouvements.
+
+Les dispositifs de contrôle des mouvements agissent de m

@@ -1,0 +1,14 @@
+es indicateurs peuvent ne pas être calculables dans les cas suivants :
+
+-pour le calcul de l'indicateur défini au 1° de l'article D. 1142-2 : parce que l'effectif total retenu, en
+application des modalités de calcul définies au paragraphe 4.1, est inférieur à 40 % de l'effectif devant être
+pris en compte pour le calcul de l'ensemble des indicateurs, selon les dispositions prévues au paragraphe 2 ;
+
+-pour le calcul des indicateurs définis aux 2° et 3° de l'article D. 1142-2 : soit parce qu'aucune promotion ou
+aucune augmentation individuelle n'est intervenue au cours de la période de référence annuelle considérée,
+soit parce que l'effectif total retenu, en application des modalités de calcul définies au paragraphe 4.2, est
+inférieur à 40 % de l'effectif devant être pris en compte pour le calcul de l'ensemble des indicateurs, selon les
+dispositions prévues au paragraphe 2 ;
+
+-pour le calcul de l'indicateur défini au 4° de l'article D. 1142-2 : parce qu'aucun retour de congé maternité
+n'e

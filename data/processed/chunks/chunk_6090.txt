@@ -1,0 +1,15 @@
+'article 26 de la loi du 6 janvier 1978 précitée, la mise en œuvre de chaque
+traitement est subordonnée à l'envoi préalable à la Commission nationale de l'informatique et des libertés,
+d'un engagement de conformité aux dispositions du présent article. Cet engagement est accompagné d'un
+dossier technique sommaire décrivant le traitement mis en œuvre et les mesures prises pour en assurer la
+sécurité.
+
+II.-Dans la mesure où elles sont strictement nécessaires à la fourniture du service en ligne, peuvent être
+collectées, traitées et conservées les données mentionnées à l'article R. 5151-4 , à l'exception des données
+suivantes :
+
+1° Les données relatives à l'exposition aux facteurs de risques professionnels mentionnées aux 3° à 6° du I de
+l'article 2 du décret du 11 août 2016 autorisant la création d'un traitement de données à caractère personnel
+dénommé compte professionnel de prévention ;
+
+2° Les données relatives aux activités bénévoles ou de volontariat enregistrées en application de l'a

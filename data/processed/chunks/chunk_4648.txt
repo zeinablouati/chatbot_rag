@@ -1,0 +1,22 @@
+ls portatifs de fixation et autres machines à chocs.
+
+2.2.2.1. Généralités.
+
+Les appareils portatifs de fixation et autres machines à chocs sont conçus et construits de manière que :
+
+-l'énergie soit transmise à l'élément subissant le choc par la pièce intermédiaire qui est solidaire de l'appareil ;
+
+-un dispositif de validation empêche le choc si la machine n'est pas positionnée correctement avec une
+pression suffisante sur le matériau de base ;
+
+-un déclenchement involontaire soit empêché ; le cas échéant, une séquence appropriée d'actions sur le
+dispositif de validation et sur celui de commande est requise pour déclencher le choc ;
+
+-un déclenchement involontaire soit empêché lors de la manutention ou en cas de heurt ;
+
+-les opérations de chargement et de déchargement puissent être effectuées facilement et en toute sécurité.
+
+Si nécessaire, l'équipement de l'appareil de pare-éclats est possible et le ou les protecteurs appropriés sont
+fournis par le fabricant de la machine.
+
+Code du

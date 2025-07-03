@@ -1,0 +1,41 @@
+ de travailleurs saisonniers) (I) ;
+
+Nombre d'embauches de salariés de moins de vingt-cinq ans ;
+
+ii-Départs :
+
+Total des départs (I) ;
+
+Nombre de démissions (I) ;
+
+Nombre de licenciements pour motif économique, dont départs en retraite et préretraite
+(I) ;
+
+Nombre de licenciements pour d'autres causes (I) ;
+
+Nombre de fins de contrats de travail à durée déterminée (I) ;
+
+Nombre de départs au cours de la période d'essai (9) (I) ;
+
+Nombre de mutations d'un établissement à un autre (I) ;
+
+Nombre de départs volontaires en retraite et préretraite (10) (I) ;
+
+Nombre de décès (I) ;
+
+iii-Promotions :
+
+Nombre de salariés promus dans l'année dans une catégorie supérieure (11) ;
+
+iv-Chômage :
+
+Nombre de salariés mis en chômage partiel pendant l'année considérée (I) ;
+
+Nombre total d'heures de chômage partiel pendant l'année considérée (12) (I) :
+
+-indemnisées ;
+
+-non indemnisées ;
+
+Nombre de salariés mis en chômage intempéries pendant l'année considérée (I) ;
+Nombre total d'heures de chômage int

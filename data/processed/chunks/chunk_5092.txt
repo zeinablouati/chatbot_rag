@@ -1,0 +1,31 @@
+ d'étude et de recherche sur l'exposition des travailleurs aux
+rayonnements ionisants.
+
+Ce traitement de données est mis en œuvre en application de l'article R. 4451-66 et des dispositions de
+la section 9 du présent chapitre. Il est ainsi nécessaire au respect d'une obligation légale à laquelle le
+responsable de traitement est soumis, conformément au c du 1 de l'article 6 du règlement (UE) du 27 avril
+2016.
+
+Article R4451-135
+
+Code du travail - Dernière modification le 23 juin 2025 - Document généré le 23 juin 2025
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Les catégories de données à caractère personnel et informations susceptibles d'être enregistrées dans le
+traitement “ SISERI ” sont :
+
+1° Les données d'identification des travailleurs exposés faisant ou ayant fait l'objet de la surveillance
+dosimétrique individuelle définie à l'article R. 4451-65, dont le numéro d'inscription au répertoire national
+d'identification des personnes physiques ;
+
+2° Les données de santé relatives à l'exposition des travail

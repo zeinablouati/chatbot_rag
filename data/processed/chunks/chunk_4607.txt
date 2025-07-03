@@ -1,0 +1,17 @@
+mais aussi tous les équipements associés si leur maintien en
+fonctionnement peut constituer un danger.
+
+1.2.5. Sélection des modes de commande ou de fonctionnement.
+
+Le mode de commande ou de fonctionnement sélectionné a la priorité sur tous les autres modes de
+commande ou de fonctionnement, à l'exception de l'arrêt d'urgence.
+
+Si la machine a été conçue et construite pour permettre son utilisation selon plusieurs modes de commande
+ou de fonctionnement exigeant des mesures de protection ou des procédures de travail différentes, elle
+est munie d'un sélecteur de mode verrouillable dans chaque position. Chaque position du sélecteur est
+clairement identifiable et correspond à un seul mode de commande ou de fonctionnement.
+
+Le sélecteur peut être remplacé par d'autres moyens de sélection permettant de limiter l'utilisation de
+certaines fonctions de la machine à certaines catégories d'opérateurs.
+
+Si, pour certaines opérations, la machine est conçue et construite pour pouvoir fonctionner alo

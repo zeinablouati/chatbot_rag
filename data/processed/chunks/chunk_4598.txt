@@ -1,0 +1,26 @@
+bir. S'il n'y a pas de plancher sous les pieds de l'opérateur, celui-ci
+dispose de repose-pieds antidérapants.
+
+1.2. Systèmes de commande.
+
+1.2.1. Sécurité et fiabilité des systèmes de commande.
+
+Les systèmes de commande sont conçus et construits de manière à éviter toute situation dangereuse. Ils sont
+avant tout conçus et construits de manière :
+
+-à résister aux contraintes de service et aux influences extérieures normales ;
+
+-à ce qu'une défaillance du matériel ou du logiciel du système de commande n'entraîne pas de situation
+dangereuse ;
+
+-à ce que des erreurs affectant la logique du système de commande n'entraînent pas de situation dangereuse ;
+
+-à ce qu'une erreur humaine raisonnablement prévisible au cours du fonctionnement n'entraîne pas de
+situation dangereuse.
+
+En particulier, il convient d'être attentif à ce que :
+
+-la machine ne puisse se mettre en marche inopinément ;
+
+-les paramètres de la machine ne puissent changer sans qu'un ordre ait été donné à cet effet, lorsque ce
+c

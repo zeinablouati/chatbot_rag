@@ -1,0 +1,44 @@
+hangement peut entraîner des situations dangereuses ;
+
+-la machine ne soit empêchée de s'arrêter si l'ordre d'arrêt a déjà été donné ;
+
+-aucun élément mobile de la machine ni aucune pièce maintenue par la machine ne puisse tomber ou être
+éjecté ;
+
+-l'arrêt automatique ou manuel des éléments mobiles, quels qu'ils soient, ne soit empêché ;
+
+-les dispositifs de protection restent pleinement opérationnels ou donnent un ordre d'arrêt ;
+
+Code du travail - Dernière modification le 23 juin 2025 - Document généré le 23 juin 2025
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-les parties du système de commande liées à la sécurité s'appliquent de manière cohérente à la totalité d'un
+ensemble de machines ou de quasi-machines.
+
+En cas de commande sans câble, un arrêt automatique se produit lorsque les bons signaux de commande ne
+sont pas reçus, notamment en cas d'interruption de la communication.
+
+1.2.2. Organes de service.
+
+Les organes de service sont :
+
+-clairement visibles et identifiables grâce à d

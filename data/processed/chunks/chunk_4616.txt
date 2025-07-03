@@ -1,0 +1,23 @@
+ètement inaccessibles pendant leur fonctionnement en raison des opérations qui nécessitent
+l'intervention de l'opérateur, ces éléments sont munis :
+
+-de protecteurs fixes ou de protecteurs mobiles avec dispositif de verrouillage empêchant l'accès aux parties
+des éléments mobiles, non utilisées pour le travail ; et
+
+-de protecteurs réglables mentionnés au point 1.4.2.3 limitant l'accès aux parties des éléments mobiles
+auxquelles il est nécessaire d'accéder.
+
+1.3.9. Risques dus aux mouvements non commandés.
+
+Quand un élément d'une machine a été arrêté, toute dérive à partir de sa position d'arrêt, quelle qu'en soit la
+cause hormis l'action sur les organes de service, est empêchée sauf si elle ne présente pas de danger.
+
+1.4. Caractéristiques requises pour les protecteurs et les dispositifs de protection.
+
+1.4.1. Règles de portée générale.
+
+Les protecteurs et les dispositifs de protection :
+
+-sont de construction robuste ;
+
+Code du travail - Dernière modification le 23 juin 2025 - Documen

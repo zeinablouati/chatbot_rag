@@ -1,0 +1,37 @@
+l de formation des contrats à durée
+déterminée ;
+
+-Masse salariale assujettie à la taxe d'apprentissage ;
+
+-Masse salariale des intermittents ;
+
+-Montant déclaré des contributions : contribution à la formation professionnelle, contribution compte
+personnel de formation des contrats à durée déterminée, part principale de la taxe d'apprentissage,
+contribution supplémentaire à l'apprentissage, participation unique au développement de la formation
+professionnelle des intermittents et régularisations, montant des déductions de la taxe d'apprentissage.
+
+2° Données à transmettre aux opérateurs de compétences
+
+a) Données de l'entreprise :
+
+-Numéro d'identification du siège social ;
+
+-Raison sociale ;
+
+-Catégorie juridique ;
+
+-Code activité principale exercée de l'entreprise (APEN) ;
+
+-Adresse ;
+
+-Coordonnées du référent chargé de la formation professionnelle ;
+
+-Date de création ;
+
+-Dates de cessations d'activité ;
+
+-Dates de disparitions ;
+
+-Effectif moyen annuel ;
+
+-Effectif moyen annuel des

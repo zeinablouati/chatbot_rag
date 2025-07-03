@@ -1,0 +1,17 @@
+xposition maximale admissible de l'utilisateur à la chaleur transmise par les équipements.
+
+3.7. Protection contre le froid
+
+Les équipements de protection individuelle destinés à préserver tout ou partie du corps contre les effets du
+froid possèdent un pouvoir d'isolation thermique et une résistance mécanique appropriés à leurs conditions
+prévisibles d'emploi.
+
+3.7.1. Matériaux constitutifs et autres composants des équipements de protection individuelle contre le froid
+
+Les matériaux constitutifs et autres composants des équipements de protection individuelle destinés à la
+protection contre le froid sont caractérisés par un coefficient de transmission du flux thermique incident
+aussi faible que l'exigent les conditions prévisibles d'emploi. Les matériaux et autres composants souples
+des équipements de protection individuelle destinés à des interventions à l'intérieur d'ambiances froides
+conservent le degré de souplesse approprié aux gestes à accomplir et aux postures à prendre.
+
+Les ma

@@ -1,0 +1,22 @@
+stallation, de son fonctionnement et de son nettoyage. Lorsqu'un
+risque existe, les mesures de protection nécessaires sont prises.
+
+Tout rayonnement non ionisant fonctionnel émis par la machine lors de son installation, de son
+fonctionnement et de son nettoyage est limité à des niveaux n'ayant pas d'effet néfaste sur les personnes.
+
+1.5.11. Rayonnements extérieurs.
+
+La machine est conçue et construite de façon que les rayonnements extérieurs ne perturbent pas son
+fonctionnement.
+
+1.5.12. Rayonnements laser.
+
+En cas d'utilisation d'équipements laser, il y a lieu de tenir compte des dispositions suivantes :
+
+-l'équipement laser sur une machine est conçu et construit de manière à éviter tout rayonnement
+involontaire ;
+
+-l'équipement laser sur une machine est protégé de manière que ni les rayonnements utiles, ni le rayonnement
+produit par réflexion ou par diffusion, ni le rayonnement secondaire ne portent atteinte à la santé ;
+
+-les équipements optiques pour l'observation ou le réglage de 

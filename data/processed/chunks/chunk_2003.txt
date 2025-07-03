@@ -1,0 +1,33 @@
+té de les simuler ;
+
+2° Lui donne accès à un service de consultation de ses bulletins de paie, lorsqu'ils ont été transmis par
+l'employeur sous forme électronique dans les conditions mentionnées à l'article L. 3243-2 ;
+
+Code du travail - Dernière modification le 23 juin 2025 - Document généré le 23 juin 2025
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3° Lui donne accès à des services utiles à la sécurisation des parcours professionnels et à la mobilité
+géographique et professionnelle.
+
+Le gestionnaire de la plateforme met en place des interfaces de programmation permettant à des tiers de
+développer et de mettre à disposition ces services.
+
+III.-Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés,
+détermine les conditions dans lesquelles les données à caractère personnel afférentes au compte personnel
+de formation et au compte professionnel de prévention, ainsi que celles issues de la déclaration sociale
+nominative mentionnée à l'article L. 1

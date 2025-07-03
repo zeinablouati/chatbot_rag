@@ -1,0 +1,19 @@
+ensemble des opérations du
+vote et à porter toute observation au procès-verbal.
+
+L'accès au bureau de vote est assuré à ces délégués, dans la limite de deux délégués à la fois par organisation.
+
+Paragraphe 5 : Les documents électoraux
+
+Article R7343-44
+
+L'identification des électeurs votant par voie électronique est assurée au moyen d'un identifiant et d'un mot
+de passe, transmis à chaque électeur suivant des modalités garantissant la confidentialité. L'identifiant et le
+mot de passe sont transmis de manière sécurisée, par le biais de deux canaux physiques distincts.
+
+En cas de perte de l'identifiant mentionné à l'alinéa précédent, un nouvel identifiant peut être obtenu par
+l'intermédiaire d'un protocole d'authentification reposant sur une question dont la réponse n'est connue que
+du votant et du système de vote électronique par internet.
+
+Une notice d'information détaillée sur le déroulement des opérations électorales et le protocole
+d'authentification, ainsi que l'identifiant permett

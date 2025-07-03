@@ -1,0 +1,109 @@
+otation des postes.
+La méthode de cotation des postes est
+
+Egal à 0 %
+
+40 points
+
+Supérieur à 0 % et inférieur ou égal à 1 %
+
+39 points
+
+Supérieur à 1 % et inférieur ou égal à 2 %
+
+38 points
+
+Supérieur à 2 % et inférieur ou égal à 3 %
+
+37 points
+
+Supérieur à 3 % et inférieur ou égal à 4 %
+
+36 points
+
+Supérieur à 4 % et inférieur ou égal à 5 %
+
+35 points
+
+Supérieur à 5 % et inférieur ou égal à 6 %
+
+34 points
+
+Code du travail - Dernière modification le 23 juin 2025 - Document généré le 23 juin 2025
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+ 
+ 
+INDICATEUR
+
+METHODE DE CALCUL
+
+RESULTATS OBTENUS
+
+NOMBRE
+
+DE POINTS
+
+Supérieur à 6 % et inférieur ou égal à 7 %
+
+33 points
+
+Supérieur à 7 % et inférieur ou égal à 8 %
+
+31 points
+
+Supérieur à 8 % et inférieur ou égal à 9 %
+
+29 points
+
+Supérieur à 9 % et inférieur ou égal à 10 %
+
+27 points
+
+Supérieur à 10 % et inférieur ou égal à 11
+%
+
+25 points
+
+Supérieur à 11 % et inférieur ou égal 

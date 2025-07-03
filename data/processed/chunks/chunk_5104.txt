@@ -1,0 +1,21 @@
+ectement sur des effets avérés sur la santé et des considérations biologiques, dont le respect
+garantit que les travailleurs exposés à des sources artificielles de rayonnement optique sont protégés de tout
+effet nocif connu sur la santé ;
+
+6° Eclairement énergétique (E) ou densité de puissance : puissance rayonnée incidente par superficie unitaire
+sur une surface, exprimée en watts par mètre carré (W. m - ²) ;
+
+7° Exposition énergétique (H) : l'intégrale de l'éclairement énergétique par rapport au temps, exprimée en
+joules par mètre carré (J. m - ²) ;
+
+8° Luminance énergétique (L) : le flux énergétique ou la puissance par unité d'angle solide et par unité de
+surface, exprimé en watts par mètre carré par stéradian (W. m - ². sr - ¹) ;
+
+9° Niveau : la combinaison d'éclairement énergétique, d'exposition énergétique et de luminance énergétique
+à laquelle est exposé un travailleur.
+
+Section 2 : Principes de prévention
+
+Article R4452-2
+
+L'employeur, par des mesures de prévention des risques 

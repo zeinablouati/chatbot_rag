@@ -1,0 +1,18 @@
+ration et de nettoyage de la machine et les interventions sur la machine peuvent être
+effectuées lorsque la machine est à l'arrêt.
+
+Si une ou plusieurs des conditions précédentes ne peuvent, pour des raisons techniques, être satisfaites,
+des mesures sont prises pour que ces opérations puissent être effectuées en toute sécurité conformément au
+paragraphe 1.2.5.
+
+Dans le cas d'une machine automatisée et éventuellement d'autres machines, un dispositif de connexion
+permettant de monter un équipement de diagnostic des pannes est prévu.
+
+Les éléments d'une machine automatisée dont le remplacement fréquent est prévu peuvent être démontés
+et remontés facilement et en toute sécurité. L'accès à ces éléments permet d'effectuer ces tâches avec les
+moyens techniques nécessaires selon un mode opératoire prévu.
+
+1.6.2. Accès aux postes de travail ou aux points d'intervention.
+
+La machine est conçue et construite de manière à permettre l'accès, en toute sécurité, à tous les
+emplacements où une interve

@@ -1,0 +1,45 @@
+tes parties du corps de l'opérateur ;
+
+-éviter un rythme de travail déterminé par la machine ;
+
+-éviter une surveillance qui nécessite une concentration prolongée ;
+
+-adapter l'interface homme-machine aux caractéristiques prévisibles des opérateurs.
+
+1.1.7. Poste de travail.
+
+Le poste de travail est conçu et construit de manière à éviter tout risque dû aux gaz d'échappement ou au
+manque d'oxygène.
+
+Si la machine est destinée à être utilisée dans un environnement dangereux, présentant des risques pour la
+santé et la sécurité de l'opérateur ou si la machine, elle-même, est à l'origine d'un environnement dangereux,
+
+Code du travail - Dernière modification le 23 juin 2025 - Document généré le 23 juin 2025
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+des moyens suffisants sont prévus pour assurer à l'opérateur de bonnes conditions de travail et une protection
+contre tout danger prévisible.
+
+Le cas échéant, le poste de travail est muni d'une cabine adéquate conçue, construite ou équipée p

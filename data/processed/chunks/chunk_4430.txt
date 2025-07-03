@@ -1,0 +1,63 @@
+upant
+
+(en mètres cubes par heures)
+
+Code du travail - Dernière modification le 23 juin 2025 - Document généré le 23 juin 2025
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DESIGNATION DES LOCAUX
+
+Bureaux, locaux sans travail physique
+
+Locaux de restauration, locaux de vente, locaux de réunion
+
+Ateliers et locaux avec travail physique léger
+
+Autres ateliers et locaux
+
+Article R4222-7
+
+DEBIT MINIMAL
+
+d'air neuf par occupant
+
+(en mètres cubes par heures)
+
+25
+
+30
+
+45
+
+60
+
+Les locaux réservés à la circulation et les locaux qui ne sont occupés que de manière épisodique peuvent être
+ventilés par l'intermédiaire des locaux adjacents à pollution non spécifique sur lesquels ils ouvrent.
+
+Article R4222-8
+
+L'air envoyé après recyclage dans les locaux à pollution non spécifique est filtré.
+L'air recyclé n'est pas pris en compte pour le calcul du débit minimal d'air neuf prévu à l'article R. 4222-6.
+En cas de panne du système d'épuration ou de filtration, le recyclage est arrêté.
+
+Article R4222-9

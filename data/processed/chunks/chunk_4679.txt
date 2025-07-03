@@ -1,0 +1,20 @@
+és.
+
+4.1.2. Mesures de protection contre les risques mécaniques.
+
+4.1.2.1. Risques dus au manque de stabilité.
+
+La machine est conçue et construite de façon que la stabilité exigée au paragraphe 1.3.1 soit assurée en
+service et hors service, y compris pendant toutes les phases du transport, du montage et du démontage,
+lors de défaillances prévisibles d'un élément et également pendant la réalisation des épreuves effectuées
+conformément à la notice d'instructions. A cette fin, le fabricant utilise les méthodes de vérification
+appropriées.
+
+4.1.2.2. Machine circulant le long de guidages ou sur des chemins de roulement.
+
+La machine est pourvue de dispositifs qui agissent sur les guidages ou chemins de roulement afin d'éviter les
+déraillements.
+
+Toutefois, si, malgré la présence de tels dispositifs, il subsiste un risque de déraillement ou de défaillance
+d'un organe de guidage ou de roulement, des dispositifs sont prévus pour empêcher la chute d'équipements,
+d'éléments ou de la charge ainsi

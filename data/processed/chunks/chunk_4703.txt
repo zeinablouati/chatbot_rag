@@ -1,0 +1,18 @@
+échéant, l'habitacle
+lui-même est complètement clos avec des portes équipées d'un dispositif de verrouillage qui empêche les
+mouvements dangereux de l'habitacle quand les portes ne sont pas fermées. Les portes restent fermées si
+l'habitacle s'arrête entre deux paliers, lorsqu'il existe un risque de chute hors de l'habitacle.
+
+La machine est conçue, construite et, le cas échéant, équipée de dispositifs de manière à éviter le
+déplacement non contrôlé de l'habitacle vers le haut ou vers le bas. Ces dispositifs peuvent arrêter l'habitacle
+à sa charge maximale d'utilisation et à la vitesse maximale prévisible.
+
+L'arrêt dû à l'action de ce dispositif ne provoque de décélération dangereuse pour les occupants, dans tous les
+cas de charge.
+
+6.4.2. Commandes situées aux paliers.
+
+La machine est conçue et construite de manière que les commandes, autres que celles à utiliser en cas
+d'urgence, situées aux paliers ne puissent déclencher les mouvements de l'habitacle lorsque :
+
+-les organes de servic

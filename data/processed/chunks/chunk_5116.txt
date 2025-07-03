@@ -1,0 +1,28 @@
+ient une liste actualisée des travailleurs susceptibles d'être exposés à des rayonnements
+optiques artificiels dépassant les valeurs limites d'exposition définies aux articles R. 4452-5 et R. 4452-6.
+
+Cette liste précise la nature de l'exposition, sa durée ainsi que son niveau, tel qu'il est connu, le cas échéant,
+par les résultats du calcul ou du mesurage.
+
+Article R4452-23
+
+L'employeur établit pour ces travailleurs une fiche d'exposition comprenant les informations suivantes :
+
+1° La nature du travail accompli ;
+
+2° Les caractéristiques des sources émettrices auxquelles le travailleur est exposé ;
+
+3° La nature des rayonnements ;
+
+4° Le cas échéant, les résultats des mesurages des niveaux de rayonnements optiques artificiels ;
+
+5° Les périodes d'exposition.
+
+Article R4452-24
+
+En cas d'exposition anormale, l'employeur porte sur la fiche d'exposition la durée et la nature de cette
+dernière.
+
+Article R4452-25
+
+Une copie de la fiche d'exposition est remise au médecin du travail. Elle est

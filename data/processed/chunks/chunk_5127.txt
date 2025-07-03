@@ -1,0 +1,56 @@
+00 < # # 106
+
+Valeur ou description
+
+Tmin = 10- 9 s (= 1 ns)
+
+Tmin = 18 10- 6 s (= 18 µs)
+
+Tmin = 50 10-6 s (= 50 µs)
+
+Tmin = 10- 3 s (= 1 ms)
+
+Tmin = 10 s
+
+Tmin = 10-3 s (= 1 ms)
+
+Tmin = 10- 7 s (= 100 ns)
+
+Grandeurs physiques d'exposition et formules de calcul
+
+Les grandeurs physiques d'exposition pertinentes d'un point de vue biophysique sont calculées au moyen des
+formules énoncées ci-dessous :
+
+E = (dP/dA) [W m- 2]
+
+H = t#0 E(t) d t (J m- 2]
+
+Définition détaillée des expressions utilisées :
+
+dP : puissance exprimée en watts [W] ;
+
+Code du travail - Dernière modification le 23 juin 2025 - Document généré le 23 juin 2025
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+dA : surface exprimée en mètres carrés [m2] ;
+
+E (t), E : éclairement énergétique ou densité de puissance : puissance rayonnée incidente par superficie
+unitaire sur une surface, généralement exprimée en watts par mètres carrés [W m2]. Les valeurs de E(t), E,
+soit proviennent de mesures, soit peuvent être communiquées par le fa

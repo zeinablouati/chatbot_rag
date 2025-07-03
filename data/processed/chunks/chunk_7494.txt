@@ -1,0 +1,17 @@
+ureau de vote peut, à tout moment, s'assurer de la disponibilité et de l'intégrité du système de vote
+ainsi que des fichiers mentionnés au 2° du I du présent article. Il est compétent pour prendre toute mesure
+d'information et de sauvegarde, y compris l'arrêt temporaire ou définitif des opérations de vote électronique
+s'il estime que leur sincérité, leur secret ou leur accessibilité ne sont plus garantis.
+
+Toute facilité est accordée au bureau de vote pour lui permettre d'assurer la surveillance effective des
+opérations électorales par voie électronique. Il peut, en tant que de besoin, saisir les autorités et, le cas
+échéant, les prestataires chargés de l'organisation de ces opérations de toute question relative à leur
+déroulement.
+
+Le bureau de vote est informé automatiquement et immédiatement de toute intervention technique sur le
+système de vote.
+
+Article R7343-41
+
+Le bureau de vote est assisté par un comité technique comprenant l'expert indépendant prévu à l'article R.
+7343-4 et de

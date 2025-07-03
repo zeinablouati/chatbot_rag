@@ -1,0 +1,37 @@
+ie autre que la force humaine.
+
+4.2.1. Commande des mouvements.
+
+Les organes de service commandant les mouvements de la machine ou de ses équipements nécessitent
+une action maintenue. Cependant, pour les mouvements partiels ou complets pour lesquels il n'y a pas
+de risque de collision avec la charge ou la machine, on peut remplacer lesdits organes par des organes de
+service autorisant des arrêts automatiques à des positions présélectionnées sans que l'opérateur actionne la
+commande en continu.
+
+Code du travail - Dernière modification le 23 juin 2025 - Document généré le 23 juin 2025
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.2.2. Contrôle des sollicitations.
+
+Les machines d'une charge maximale d'utilisation au moins égale à 1 000 kg ou dont le moment de
+renversement est au moins égal à 40 000 Nm sont équipées de dispositifs avertissant le conducteur et
+empêchant les mouvements dangereux en cas :
+
+-de surcharge, par dépassement de la charge maximale d'utilisation ou du moment maximal d'uti

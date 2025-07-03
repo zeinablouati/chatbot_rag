@@ -1,0 +1,48 @@
+-16 lorsque les deux volets de la déclaration unique et simplifiée comportent les informations suivantes :
+
+1° Mentions relatives à l'employeur :
+
+a) Nom, prénom ou dénomination sociale ;
+
+b) Code APE ;
+
+c) Numéro SIRET ;
+
+d) Numéro d'inscription au répertoire national d'identification des personnes physiques lorsque l'employeur
+est un particulier ;
+
+e) Adresse ;
+
+f) Numéros de téléphone et courriel ;
+
+2° Mentions relatives au salarié :
+
+a) Nom et prénom ;
+
+b) Nom marital ;
+
+c) Adresse ;
+
+d) Numéro d'immatriculation à la sécurité sociale ;
+
+e) Date et lieu de naissance ;
+
+f) Sexe ;
+
+g) Nationalité ;
+
+3° Mentions relatives à l'embauche et à l'emploi :
+
+a) Date et heure d'embauche ;
+
+b) Motif du contrat ;
+
+c) Emploi occupé ;
+
+d) Lieu de travail si différent de l'adresse de l'employeur mentionnée au e du 1° ;
+
+e) Salaire horaire brut ou valeur unitaire en cas de rémunération au cachet ;
+
+f) Intitulé de la convention collective de branche applicable ;
+
+Code du travail - Dernière modificati

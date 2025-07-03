@@ -1,0 +1,22 @@
+s.
+
+1.5.6. Incendie.
+
+La machine est conçue et construite de manière à éviter tout risque d'incendie ou de surchauffe provoqué par
+la machine elle-même ou par les gaz, liquides, poussières, vapeurs et autres substances produites ou utilisées
+par la machine.
+
+1.5.7. Explosion.
+
+La machine est conçue et construite de manière à éviter tout risque d'explosion provoqué par la machine elle-
+même ou par les gaz, liquides, poussières, vapeurs et autres substances produites ou utilisées par la machine.
+
+La machine doit être est conforme aux dispositions des dispositions issues de la transposition des directives
+communautaires particulières, en ce qui concerne les risques d'explosion dus à son utilisation dans une
+atmosphère explosible.
+
+1.5.8. Bruit.
+
+La machine est conçue et construite de manière que les risques résultant de l'émission du bruit aérien soient
+réduits au niveau le plus bas, compte tenu du progrès technique et de la disponibilité de moyens permettant
+de réduire le bruit, notammen

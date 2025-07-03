@@ -1,0 +1,20 @@
+nœuvre. Elles
+présentent une surface antidérapante et sont facilement nettoyables.
+
+Lorsque le fait d'actionner les organes de service peut entraîner des risques, notamment des mouvements
+dangereux, ces organes, sauf ceux ayant des positions prédéterminées, reviennent en position neutre dès que
+l'opérateur cesse de les actionner.
+
+Dans le cas de machines à roues, le mécanisme de direction est conçu et construit de manière à réduire
+la force des mouvements brusques du volant ou du levier de direction résultant de chocs sur les roues
+directrices.
+
+Toute commande de verrouillage du différentiel est conçue et disposée de telle sorte qu'elle permette de
+déverrouiller le différentiel lorsque la machine est en mouvement.
+
+Le paragraphe 1.2.2, sixième alinéa, concernant les signaux d'avertissement sonore ou visuel ne s'applique
+qu'en cas de marche arrière.
+
+3.3.2. Mise en marche/ déplacement.
+
+Tout déplacement d'une machine automotrice à conducteur porté n'est possible que si le conducteur est

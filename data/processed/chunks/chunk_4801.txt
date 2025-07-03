@@ -1,0 +1,33 @@
+ment identifiables,
+accessibles et en nombre suffisant, permettant d'éviter des situations dangereuses risquant ou en train de se
+produire.
+Sont exclues de cette obligation :
+
+Code du travail - Dernière modification le 23 juin 2025 - Document généré le 23 juin 2025
+
+ 
+  
+ 
+  
+ 
+  
+  
+ 
+ 
+ 
+  
+ 
+ 
+1° Les machines pour lesquelles un dispositif d'arrêt d'urgence ne serait pas en mesure de réduire le risque,
+soit parce qu'il ne réduirait pas le temps d'obtention de l'arrêt normal, soit parce qu'il ne permettrait pas de
+prendre les mesures particulières nécessitées par le risque ;
+2° Les machines portatives et les machines guidées à la main.
+
+Sous-section 3 : Dispositifs d'alerte et de signalisation
+
+Article R4324-16
+
+Un équipement de travail comporte les avertissements, signalisations et dispositifs d'alerte indispensables
+pour assurer la sécurité des travailleurs.
+Ces avertissements, signalisations et dispositifs d'alerte sont choisis et disposés de façon à être perçus et
+compris facilem

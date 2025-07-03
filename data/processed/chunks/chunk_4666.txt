@@ -1,0 +1,38 @@
+ocument généré le 23 juin 2025
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+La machine est conçue, construite et, le cas échéant, montée sur son support mobile de façon que, lors de son
+déplacement, les oscillations incontrôlées de son centre de gravité n'affectent pas sa stabilité ou n'exercent de
+contraintes excessives sur sa structure.
+
+3.4.2. Eléments mobiles de transmission.
+
+Par exception au paragraphe 1.3.8.1, dans le cas des moteurs, les protecteurs mobiles empêchant l'accès
+aux parties mobiles dans le compartiment moteur ne sont pas dotés de dispositif de verrouillage si, pour
+les ouvrir, il faut utiliser un outil ou une clé ou actionner une commande située dans le poste de conduite,
+à condition que celui-ci soit situé dans une cabine entièrement fermée munie d'une serrure permettant
+d'empêcher les personnes non autorisées d'y pénétrer.
+
+3.4.3. Retournement et basculement.
+
+Lorsque, pour une machine automotrice avec conducteur porté, et éventuellement opérateurs ou autres
+personn

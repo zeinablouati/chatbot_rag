@@ -1,0 +1,14 @@
+ris le numéro d'inscription au répertoire national d'identification des
+personnes physiques et l'identifiant commun attribué par l'opérateur France Travail, et de contact. Lorsque
+ce numéro est traité dans le cadre des outils et services numériques communs mentionnés à l'article R.
+5312-38-1, il ne peut l'être que pour l'appariement et la fiabilisation des données partagées ;
+
+b) Les données relatives au droit au revenu de remplacement mentionné à l'article L. 5421-2 ou aux autres
+sommes versées par France Travail pour le compte de l'assurance chômage, de l'Etat ou pour son propre
+compte, ainsi que les données relatives au revenu de solidarité active ;
+
+c) Les données d'ordre économique et financier, y compris les catégories de revenus perçus au titre de leur
+activité professionnelle ou au titre de revenu de remplacement ou de prestations ou d'aides sociales versées
+par d'autres organismes, ainsi que les données fiscales et bancaires ;
+
+d) Les données relatives à la situation familiale

@@ -1,0 +1,27 @@
+[
+  {
+    "query": "Quelles sont les conditions de licenciement ?",
+    "reference": "Un licenciement pour motif personnel doit être motivé...",
+    "gold_chunk": "chunk_123.txt"
+  },
+  {
+    "query": "Quels sont les droits des salariés en cas de licenciement ?",
+    "reference": "Les salariés ont droit à une indemnité de licenciement...",
+    "gold_chunk": "chunk_456.txt"
+  },
+  {
+    "query": "Comment contester un licenciement ?",
+    "reference": "Pour contester un licenciement, le salarié peut saisir le conseil de prud'hommes...",
+    "gold_chunk": "chunk_789.txt"
+  },
+  {
+    "query": "Quels sont les délais pour contester un licenciement ?",
+    "reference": "Le salarié dispose d'un délai de 12 mois pour contester son licenciement devant le tribunal compétent.",
+    "gold_chunk": "chunk_101.txt"
+  },
+  {
+    "query": "Quelles sont les obligations de l'employeur en matière de licenciement ?",
+    "reference": "L'employeur doit respecter une procédure disciplinaire et notifier le salarié par écrit.",
+    "gold_chunk": "chunk_102.txt"
+  }
+]

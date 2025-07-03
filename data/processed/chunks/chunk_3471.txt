@@ -1,0 +1,28 @@
+ fait usage :
+
+1° D'une enveloppe de retour adressée au centre de traitement ;
+
+2° D'un bulletin de vote permettant à la fois l'émargement de l'électeur et l'expression de son vote. Les
+informations du bulletin relatives à l'identification de l'électeur font l'objet d'un encodage avec identifiant
+aléatoire de sorte qu'il soit impossible d'établir un lien entre le sens du vote et l'identité de l'électeur.
+
+Article R2122-74
+
+Code du travail - Dernière modification le 23 juin 2025 - Document généré le 23 juin 2025
+
+  
+  
+ 
+ 
+ 
+ 
+ 
+L'électeur souhaitant voter par correspondance adresse au centre de traitement mentionné à l'article R.
+2122-53 son bulletin de vote après l'avoir glissé dans l'enveloppe de retour. Par cet envoi, il atteste sur
+l'honneur qu'il ne fait l'objet d'aucune interdiction, déchéance ou incapacité relative à ses droits civiques.
+
+Un arrêté du ministre chargé du travail fixe la date limite de réception des votes par correspondance.
+
+Article R2122-75
+
+Les plis de vote pa

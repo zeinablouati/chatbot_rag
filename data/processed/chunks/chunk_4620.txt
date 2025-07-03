@@ -1,0 +1,24 @@
+positifs de protection.
+
+Les dispositifs de protection sont conçus et incorporés au système de commande de manière que :
+
+-les éléments mobiles ne puissent être mis en mouvement aussi longtemps que l'opérateur peut les atteindre ;
+
+-les personnes ne puissent atteindre les éléments mobiles tant qu'ils sont en mouvement,
+
+et
+
+-l'absence ou la défaillance d'un de leurs organes empêche la mise en marche ou provoque l'arrêt des
+éléments mobiles.
+
+Le réglage des dispositifs de protection nécessite une action volontaire.
+
+1.5. Risques dus à d'autres dangers.
+
+1.5.1. Alimentation en énergie électrique.
+
+Lorsque la machine est alimentée en énergie électrique, elle est conçue, construite et équipée de façon à
+prévenir, ou à pouvoir prévenir, tous les dangers d'origine électrique.
+
+Les objectifs de sécurité prévus par les dispositions assurant la transposition de la directive n° 73/23/ CEE
+s'appliquent aux machines. Toutefois, les obligations concernant l'évaluation de la conformité et la mise su

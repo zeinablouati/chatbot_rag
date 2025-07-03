@@ -1,0 +1,25 @@
+e sectionnement assurent la séparation de l'installation électrique, des circuits ou des
+appareils d'utilisation, de leurs sources d'alimentation et permettent d'effectuer en sécurité toute opération sur
+l'installation, les circuits ou les appareils d'utilisation.
+
+Article R4215-8
+
+Des dispositifs permettent, en cas d'urgence, de couper l'alimentation électrique de circuits ou de groupes de
+circuits en cas d'apparition d'un danger inattendu de choc électrique, d'incendie ou d'explosion.
+
+Article R4215-9
+
+Les canalisations électriques sont mises en place selon les prescriptions particulières à chaque mode de pose.
+
+Article R4215-10
+
+L'identification des circuits et des appareillages est assurée de façon pérenne.
+
+La localisation et le repérage des canalisations permettent les vérifications, essais, réparations ou
+transformations de l'installation.
+
+Le repérage des conducteurs permet de connaître leur fonction dans les circuits.
+
+Article R4215-11
+
+Les matériels électriques sont choisis e

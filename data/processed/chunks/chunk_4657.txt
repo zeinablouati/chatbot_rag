@@ -1,0 +1,42 @@
+il, soit un déplacement continu ou
+semi-continu suivant une succession de postes de travail fixes ;
+
+Code du travail - Dernière modification le 23 juin 2025 - Document généré le 23 juin 2025
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ou
+
+-machine qui fonctionne sans déplacement, mais qui peut être munie de moyens permettant de la déplacer
+plus facilement d'un endroit à un autre.
+
+b) Conducteur : opérateur chargé du déplacement d'une machine. Le conducteur peut soit être transporté par
+la machine, soit accompagner la machine à pied, soit la guider par commande à distance.
+
+3.2. Postes de travail.
+
+3.2.1. Poste de conduite.
+
+La visibilité depuis le poste de conduite est telle que le conducteur peut en toute sécurité, pour lui-même
+et pour les personnes exposées, faire fonctionner la machine et ses outils dans les conditions d'utilisation
+prévisibles. En cas de besoin, des dispositifs appropriés remédient aux risques résultant de l'insuffisance de
+la vision directe.
+
+La machine sur laquelle 

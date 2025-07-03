@@ -1,0 +1,26 @@
+u démontés qu'avec des
+outils.
+
+Les systèmes de fixation sont solidaires des protecteurs ou de la machine lors du démontage des protecteurs.
+
+Dans la mesure du possible, les protecteurs ne peuvent rester en place en l'absence de leurs fixations.
+
+1.4.2.2. Protecteurs mobiles avec dispositif de verrouillage.
+
+1° Les protecteurs mobiles sont conçus et construits :
+
+-pour, dans la mesure du possible, rester solidaires de la machine lorsqu'ils sont ouverts ;
+
+-de façon que leur réglage nécessite une action volontaire.
+
+2° Les protecteurs mobiles sont associés à un dispositif de verrouillage :
+
+-empêchant la mise en marche de fonctions dangereuses de la machine jusqu'à ce qu'ils soient fermés,
+
+et
+
+-donnant un ordre d'arrêt dès qu'ils ne sont plus fermés.
+
+3° Lorsqu'un opérateur peut atteindre la zone dangereuse avant que le risque lié aux fonctions dangereuses
+d'une machine ait cessé, outre le dispositif de verrouillage, les protecteurs mobiles sont associés à un
+dispositif d'interverrouil

@@ -1,0 +1,19 @@
+ectives, tels que la distance par rapport à la
+source et la distribution spectrale de l'énergie rayonnée à cette distance.
+
+Chaque exemplaire d'oculaire filtrant comporte le numéro d'échelon de protection qu'il assure.
+
+3.9.2. Rayonnements ionisants
+
+3.9.2.1. Protection contre la contamination radioactive externe
+
+Les matériaux constitutifs et autres composants des équipements de protection individuelle destinés à
+protéger tout ou partie du corps contre les poussières, gaz, liquides radioactifs ou leurs mélanges sont
+tels que ces équipements s'opposent efficacement à la pénétration des contaminants dans les conditions
+prévisibles d'emploi.
+
+L'étanchéité requise est obtenue, selon la nature ou l'état des contaminants, par l'imperméabilité de
+l'enveloppe protectrice ou par tout autre moyen approprié tel que des systèmes de ventilation et des
+pressurisations s'opposant à la rétrodiffusion de ces contaminants.
+
+Code du travail - Dernière modification le 23 juin 2025 - Document généré le 23

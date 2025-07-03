@@ -1,0 +1,19 @@
+ entre l'habitacle et un élément fixe, un espace libre suffisant est prévu, soit au moyen
+de refuges, soit au moyen de dispositifs mécaniques bloquant le déplacement de l'habitacle.
+
+4.1.2.8.4. Risques dus à une charge tombant de l'habitacle.
+
+Lorsqu'il existe un risque dû à une charge tombant de l'habitacle, la machine est conçue et construite de
+manière à éviter ce risque.
+
+4.1.2.8.5. Paliers.
+
+Les machines sont conçues et construites de manière à éviter les risques dus aux contacts des personnes
+situées aux paliers avec l'habitacle en mouvement ou avec d'autres éléments mobiles.
+
+Lorsqu'il existe un risque lié à la chute de personnes dans le volume parcouru lorsque l'habitacle n'est pas
+présent aux paliers, des protecteurs sont installés pour éviter ce risque. Ces protecteurs sont prévus pour
+ne pas s'ouvrir du côté du volume parcouru. Ils sont munis d'un dispositif de verrouillage commandé par la
+position de l'habitacle qui évite :
+
+-les déplacements dangereux de l'habitacle jusqu'

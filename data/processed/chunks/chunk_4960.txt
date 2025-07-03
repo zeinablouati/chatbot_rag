@@ -1,0 +1,25 @@
+ec la pondération fréquentielle C ;
+2° Le niveau d'exposition quotidienne au bruit est la moyenne pondérée dans le temps des niveaux
+d'exposition au bruit pour une journée de travail nominale de huit heures ;
+3° Le niveau d'exposition hebdomadaire au bruit est la moyenne pondérée dans le temps des niveaux
+d'exposition quotidienne au bruit pour une semaine nominale de cinq journées de travail de huit heures.
+Un arrêté conjoint des ministres chargés du travail et de l'agriculture précise le mode de calcul de ces
+paramètres physiques.
+
+Section 2 : Valeurs limites d'exposition professionnelle
+
+Article R4431-2
+
+Les valeurs limites d'exposition et les valeurs d'exposition déclenchant une action de prévention sont fixées
+dans le tableau suivant :
+
+VALEURS D'EXPOSITION
+
+NIVEAU D'EXPOSITION
+
+1° Valeurs limites d'exposition
+
+Niveau d'exposition quotidienne au bruit de 87 dB (A) ou niveau de pression acoustique
+de crête de 140 dB (C)
+
+2° Valeurs d'exposition supérieures déclenchant l'action de pr

@@ -1,0 +1,41 @@
+t à la source.
+
+Le niveau d'émission sonore est évalué par rapport à des données comparatives d'émissions relatives à des
+machines similaires.
+
+1.5.9. Vibrations.
+
+La machine est conçue et construite de manière que les risques résultant des vibrations produites par la
+machine soient réduits au niveau le plus bas, compte tenu du progrès technique et de la disponibilité de
+moyens permettant de réduire les vibrations, notamment à la source.
+
+Le niveau de vibration est évalué par rapport à des données comparatives d'émissions relatives à des
+machines similaires.
+
+1.5.10. Rayonnements.
+
+Code du travail - Dernière modification le 23 juin 2025 - Document généré le 23 juin 2025
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Les rayonnements indésirables de la machine sont éliminés ou réduits à des niveaux n'ayant pas d'effet
+néfaste sur les personnes.
+
+Tout rayonnement ionisant fonctionnel émis par la machine est limité au niveau le plus bas nécessaire au bon
+fonctionnement de la machine lors de son in

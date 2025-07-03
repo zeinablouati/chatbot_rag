@@ -1,0 +1,18 @@
+n est de même pour les machines dont l'utilisation
+suppose un va-et-vient constant sur un même axe lorsque le conducteur ne voit pas directement la zone à
+l'arrière de la machine.
+
+La machine est construite de manière que les dispositifs d'avertissement et de signalisation ne puissent être
+mis hors service involontairement. Chaque fois que cela est indispensable à la sécurité, ces dispositifs sont
+munis de moyens permettant d'en contrôler le bon fonctionnement, et toute défaillance est rendue apparente à
+l'opérateur.
+
+Lorsque les mouvements d'une machine ou de ses outils sont particulièrement dangereux, une signalisation
+figure sur la machine, interdisant de s'en approcher pendant qu'elle fonctionne. Cette signalisation est lisible
+à une distance suffisante pour assurer la sécurité des personnes appelées à se trouver à proximité.
+
+3.6.2. Marquage.
+
+Sur chaque machine sont portées, de manière lisible et indélébile, les indications suivantes :
+
+-la puissance nominale exprimée en kilowatt

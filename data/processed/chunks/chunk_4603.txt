@@ -1,0 +1,20 @@
+gane de service
+prévu à cet effet.
+
+Il en est de même :
+
+-pour la remise en marche après un arrêt, quelle qu'en soit la cause ;
+
+-pour la commande d'une modification importante des conditions de fonctionnement.
+
+Toutefois, la remise en marche ou la modification des conditions de fonctionnement peut être effectuée
+par une action volontaire sur un organe autre que l'organe de service prévu à cet effet, à condition que cela
+n'entraîne pas de situation dangereuse.
+
+Dans le cas d'une machine fonctionnant en mode automatique, la mise en marche, la remise en marche
+après un arrêt ou la modification des conditions de fonctionnement peuvent se produire sans intervention, à
+condition que cela n'entraîne pas de situation dangereuse.
+
+Si une machine comprend plusieurs organes de service de mise en marche et que, de ce fait, les opérateurs
+peuvent se mettre mutuellement en danger, des dispositifs complémentaires sont prévus pour exclure ce
+risque. Si la sécurité exige que la mise en marche ou l'arr

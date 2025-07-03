@@ -1,0 +1,152 @@
+2.1 : Risques associés aux rayonnements :
+Longueur d'onde [nm] #
+
+Région du spectre
+
+Organe atteint
+
+180 à 400
+
+180 à 400
+
+400 à 700
+
+400 à 600
+
+400 à 700
+
+700 à 1 400
+
+700 à 1 400
+
+1 400 à 2 600
+
+2 600 à 106
+
+1 400 à 106
+
+1 400 à 106
+
+UV
+
+UV
+
+visible
+
+visible
+
+visible
+
+IRA
+
+IRA
+
+IRB
+
+IRC
+
+IRB, IRC
+
+IRB, IRC
+
+œil
+
+peau
+
+œil
+
+œil
+
+peau
+
+œil
+
+peau
+
+œil
+
+œil
+
+œil
+
+peau
+
+Risque
+
+Tableaux dans lesquels figurent
+les valeurs limites d'exposition
+
+lésion photochimique et lésion
+thermique
+
+2.2, 2.3
+
+érythème
+
+lésion de la rétine
+
+lésion photochimique
+
+lésion thermique
+
+lésion thermique
+
+lésion thermique
+
+lésion thermique
+
+lésion thermique
+
+lésion thermique
+
+lésion thermique
+
+2.4
+
+2.2
+
+2.3
+
+2.4
+
+2.2, 2.3
+
+2.4
+
+2.2
+
+2.2
+
+2.3
+
+2.4
+
+Tableau 2.2 : valeurs limites d'exposition de l'œil au laser Exposition de courte durée < 10 s
+
+Durée [s]
+
+10-13 - 10-11
+
+10-11 - 10-9
+
+10-9 - 10-7
+
+10-7 - 1,8.10-5
+
+1,8.10-5.10-5
+
+5.10-5 - 10-3
+
+10-3 -101
+
+E = 3 1010 W m-2
+
+H - 30 J m-2
+
+voir note c
+
+Diaphra
+
+gme
+
+1 mi

@@ -1,0 +1,20 @@
+ques pertinentes décrites dans la présente partie s'applique aux machines
+présentant des dangers dus aux opérations de levage conformément au 4° des principes généraux figurant au
+début de la présente annexe.
+
+4.1. Généralités.
+
+4.1.1. Définitions.
+
+a) Opération de levage : opération de déplacement de charges unitaires composées d'objets ou de personnes
+nécessitant, à un moment donné, un changement de niveau.
+
+b) Charge guidée : charge dont la totalité du déplacement se fait le long de guides rigides ou souples dont la
+position dans l'espace est déterminée par des points fixes.
+
+c) Coefficient d'utilisation : rapport arithmétique entre la charge qu'un composant peut retenir, garantie par le
+fabricant, et la charge maximale d'utilisation indiquée sur le composant.
+
+d) Coefficient d'épreuve : rapport arithmétique entre la charge utilisée pour effectuer les épreuves statiques
+ou dynamiques d'une machine ou d'un accessoire de levage et la charge maximale d'utilisation indiquée sur
+la machi

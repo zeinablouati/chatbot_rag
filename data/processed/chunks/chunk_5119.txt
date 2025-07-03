@@ -1,0 +1,37 @@
+Article Annexe II
+
+RAYONNEMENTS OPTIQUES LASER
+
+Les grandeurs physiques d'exposition pertinentes d'un point de vue biophysique sont choisies en fonction
+de la longueur d'onde et de la durée du rayonnement émis par la source. Plus d'une grandeur physique
+d'exposition, et donc plus d'une limite d'exposition correspondante, peut être pertinente pour une source de
+rayonnements optiques laser donnée.
+
+Valeurs limites d'exposition
+
+Les valeurs limites d'exposition figurent aux tableaux 2.2, 2.3 et 2.4 selon la longueur d'onde du
+rayonnement émis et les risques associés au regard desquels elles sont pertinentes, conformément au tableau
+2.1.
+
+Code du travail - Dernière modification le 23 juin 2025 - Document généré le 23 juin 2025
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Les coefficients CA, CB, CC, T1, T2, #min et #, ainsi que les corrections applicables aux expositions
+répétitives, utiles à l'identification des valeurs limites d'exposition pertinentes, sont précisés aux tableaux 2.5
+et 2.6.
+
+Tableau 

@@ -1,0 +1,23 @@
+ques dus au déplacement inopiné de la machine vers le conducteur, notamment les risques :
+
+-d'écrasement ;
+
+-de blessure provoquée par des outils rotatifs.
+
+La vitesse de déplacement de la machine est compatible avec la vitesse d'un conducteur à pied.
+
+Dans le cas de machines sur lesquelles peut être monté un outil rotatif, cet outil ne peut être actionné lorsque
+la marche arrière est enclenchée, sauf dans le cas où le déplacement de la machine résulte du mouvement
+de l'outil. Dans ce dernier cas, la vitesse en marche arrière est telle qu'elle ne présente pas de danger pour le
+conducteur.
+
+3.3.5. Défaillance du circuit de commande.
+
+La machine est conçue et construite de manière telle qu'une défaillance dans l'alimentation de la direction
+assistée, quand elle existe, n'empêche pas de diriger la machine pendant le temps nécessaire pour l'arrêter.
+
+3.4. Protection contre les risques mécaniques.
+
+3.4.1. Mouvements non commandés.
+
+Code du travail - Dernière modification le 23 juin 2025 - D

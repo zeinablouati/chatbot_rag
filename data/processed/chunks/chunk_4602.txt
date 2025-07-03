@@ -1,0 +1,36 @@
+onore ou visuel. Les personnes exposées
+doivent avoir le temps de quitter la zone dangereuse ou d'empêcher le démarrage de la machine.
+
+Si nécessaire, des moyens sont prévus pour que la machine ne puisse être commandée qu'à partir de postes
+de commande situés dans une ou plusieurs zones ou emplacements prédéterminés.
+
+Quand il y a plusieurs postes de commande, le système de commande est conçu de façon que l'utilisation de
+l'un d'eux empêche l'utilisation des autres, sauf en ce qui concerne les dispositifs d'arrêt et d'arrêt d'urgence.
+
+Code du travail - Dernière modification le 23 juin 2025 - Document généré le 23 juin 2025
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Quand une machine dispose de plusieurs postes de travail, chaque poste est pourvu de tous les organes de
+service requis sans que les opérateurs se gênent ou se mettent l'un l'autre dans une situation dangereuse.
+
+1.2.3. Mise en marche.
+
+La mise en marche d'une machine ne peut s'effectuer que par une action volontaire sur un or

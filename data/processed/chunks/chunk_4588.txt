@@ -1,0 +1,13 @@
+end plusieurs parties. La première a une portée générale et est applicable à tous
+les types de machines. D'autres parties visent certains types de dangers plus particuliers. Il est néanmoins
+impératif d'examiner l'intégralité de la présente annexe afin d'être sûr de satisfaire à toutes les règles
+techniques pertinentes. Lors de la conception d'une machine, les règles techniques de la partie générale et les
+règles techniques d'une ou de plusieurs des autres parties de l'annexe sont prises en compte selon les résultats
+de l'évaluation des risques effectuée conformément au 1° des présents principes généraux.
+
+5° Les règles techniques de santé et de sécurité sont des dispositions obligatoires relatives à la conception et
+à la construction des produits couverts par la présente annexe afin d'assurer un niveau élevé de protection de
+la santé et de la sécurité des personnes, le cas échéant des animaux domestiques et des biens et, s'il y a lieu,
+de l'environnement.
+
+Les règles techniques de san

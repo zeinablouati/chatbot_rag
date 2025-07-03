@@ -1,0 +1,49 @@
+lage :
+
+-empêchant la mise en marche de fonctions dangereuses de la machine jusqu'à ce que les protecteurs soient
+fermés et verrouillés,
+
+et
+
+Code du travail - Dernière modification le 23 juin 2025 - Document généré le 23 juin 2025
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-maintenant les protecteurs fermés et verrouillés jusqu'à ce que le risque de blessure lié aux fonctions
+dangereuses de la machine ait cessé.
+
+4° Les protecteurs mobiles avec dispositif de verrouillage sont conçus de façon que l'absence ou la
+défaillance d'un de leurs organes empêche la mise en marche ou provoque l'arrêt des fonctions dangereuses
+de la machine.
+
+1.4.2.3. Protecteurs réglables limitant l'accès.
+
+Les protecteurs réglables limitant l'accès aux parties des éléments mobiles strictement nécessaires au travail :
+
+-peuvent être réglés manuellement ou automatiquement selon la nature du travail à réaliser ;
+
+-peuvent être réglés aisément sans l'aide d'un outil.
+
+1.4.3. Règles particulières pour les dis

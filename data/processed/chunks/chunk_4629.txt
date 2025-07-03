@@ -1,0 +1,18 @@
+ntion est nécessaire durant le fonctionnement, le réglage et l'entretien de la
+machine.
+
+1.6.3. Séparation de la machine de ses sources d'énergie.
+
+La machine est munie de dispositifs permettant de l'isoler de toutes les sources d'énergie. Ces dispositifs
+sont clairement identifiés. Ils sont verrouillables si la reconnexion risque de présenter un danger pour
+les personnes. Les dispositifs sont également verrouillables lorsque l'opérateur ne peut pas, de tous les
+emplacements auxquels il a accès, vérifier que l'alimentation en énergie est toujours coupée.
+
+Dans le cas d'une machine pouvant être alimentée en énergie électrique par une prise de courant, le retrait de
+la prise suffit, à condition que l'opérateur puisse vérifier, de tous les emplacements auxquels il a accès, que la
+prise est toujours retirée.
+
+Après que l'alimentation a été coupée, toute énergie résiduelle ou stockée dans les circuits de la machine peut
+être évacuée normalement, sans risque pour les personnes.
+
+Par dérogati

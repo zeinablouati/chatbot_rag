@@ -1,0 +1,35 @@
+ reçoive une information adaptée.
+
+Cette information porte notamment sur la détection visuelle des différents types de sources et de leurs
+contenants, les caractéristiques des rayonnements ionisants et leurs effets sur la santé ainsi que sur les
+mesures à prendre sur le site en cas de détection ou de soupçon concernant la présence d'une telle source.
+
+Code du travail - Dernière modification le 23 juin 2025 - Document généré le 23 juin 2025
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+ 
+ 
+  
+Sous-section 3 : Dispositions spécifiques relatives à la manipulation
+d'appareils de radiologie industrielle
+
+Article R4451-61
+
+Les appareils de radiologie industrielle mentionnés au 3° de l'article R. 4311-7 et dont la liste est fixée par
+arrêté ne peuvent être manipulés que par un travailleur titulaire d'un certificat d'aptitude délivré par l'Institut
+de radioprotection et de sûreté nucléaire à l'issue d'une formation appropriée.
+
+Article R4451-62
+
+Lorsque l'appareil de radiologie industrielle est utilisé en deh

@@ -1,0 +1,24 @@
+sposent d'ancrages pour les plaques de tête des étançons hydrauliques individuels.
+
+5.2. Circulation.
+
+Les soutènements marchants permettent une circulation sans entraves des personnes.
+
+5.3. Organes de service.
+
+Les organes de service d'accélération et de freinage du déplacement des machines sur rails sont conçus et
+construits pour être actionnés à la main. Toutefois, les dispositifs de validation peuvent être actionnés au
+pied.
+
+Les organes de service des soutènements marchants sont conçus et disposés de manière à permettre que,
+pendant l'opération de ripage, les opérateurs soient abrités par un soutènement en place. Les organes de
+service sont protégés contre tout déclenchement involontaire.
+
+5.4. Arrêt.
+
+Les machines automotrices sur rails destinées à des travaux souterrains sont équipées d'un dispositif de
+validation agissant sur le circuit de commande du déplacement de la machine tel que le déplacement est
+arrêté si le conducteur ne contrôle plus le déplacement.
+
+5.5. Incendie.
+

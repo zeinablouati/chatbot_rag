@@ -1,0 +1,20 @@
+ge sous le seul contrôle d'un frein à friction, sauf lorsque la
+fonction de la machine nécessite une telle application.
+
+e) Les dispositifs de préhension sont conçus et construits de manière à éviter de faire tomber par mégarde les
+charges.
+
+4.1.2.7. Mouvements des charges lors de la manutention.
+
+L'implantation du poste de travail des machines permet la surveillance maximale des trajectoires des
+éléments en mouvement, afin d'éviter toute collision avec des personnes, du matériel ou d'autres machines
+fonctionnant simultanément, qui pourrait présenter un danger. Les machines à charge guidée sont conçues
+et construites pour empêcher que les personnes soient blessées du fait des mouvements de la charge, de
+l'habitacle ou des éventuels contrepoids.
+
+4.1.2.8. Machines desservant des paliers fixes.
+
+4.1.2.8.1. Déplacements de l'habitacle.
+
+Les déplacements de l'habitacle d'une machine desservant des paliers fixes se font le long de guides rigides
+pour ce qui est des déplacements vers les pal

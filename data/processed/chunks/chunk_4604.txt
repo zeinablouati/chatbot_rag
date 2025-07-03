@@ -1,0 +1,25 @@
+êt se fasse selon une séquence déterminée, des
+dispositifs sont prévus pour assurer que ces opérations vont se faire dans l'ordre exact.
+
+1.2.4. Arrêt.
+
+1.2.4.1. Arrêt normal.
+
+La machine est munie d'un organe de service permettant son arrêt complet en toute sécurité.
+
+Chaque poste de travail est muni d'un organe de service permettant d'arrêter tout ou partie des fonctions de la
+machine, en fonction des dangers existants, de manière à sécuriser la machine.
+
+L'ordre d'arrêt de la machine est prioritaire sur les ordres de mise en marche.
+
+La machine est conçue et construite de manière que son arrêt ou celui de ses fonctions dangereuses ayant été
+obtenu, l'alimentation en énergie des actionneurs concernés est interrompue.
+
+1.2.4.2. Arrêt pour des raisons de service.
+
+Lorsque, pour des raisons de service, il convient de recourir à une commande d'arrêt qui n'interrompt pas
+l'alimentation en énergie des actionneurs, la fonction arrêt est surveillée et maintenue.
+
+1.2.4.3. Arrêt d'urgence.
+
+L

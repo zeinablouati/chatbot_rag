@@ -1,0 +1,29 @@
+bricant de l'équipement ;
+
+H : exposition énergétique : l'intégrale de l'éclairement énergétique par rapport au temps, exprimée en joules
+par mètre carré (J m-2] ;
+
+t : temps, durée de l'exposition, exprimée en secondes[s] ;
+
+# : longueur d'onde, exprimée en nanomètres[nm] ;
+
+# : angle de cône de limitation du champ de mesure, exprimé en milliradians [mrad] ;
+
+#m : champ de mesure, exprimé en milliradians [mrad] ;
+
+# : angle apparent d'une source, exprimé en milliradians [mrad] ;
+
+diaphragme limite : la surface circulaire, utilisée pour calculer les moyennes de l'éclairement énergétique et
+de l'exposition énergétique ;
+
+G : luminance énergétique intégrée : l'intégrale de la luminance énergétique sur une durée d'exposition
+donnée, exprimée sous forme d'énergie rayonnante par superficie unitaire d'une surface rayonnante et par
+angle solide unitaire d'émission, en joules par mètre carré par stéradian [J m-2 sr -1].
+
+Article Annexe III
+
+Numérotation modifiée
+
+Nouvelle numérotation
+
+Référen

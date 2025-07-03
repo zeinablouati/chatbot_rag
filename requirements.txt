@@ -10,3 +10,5 @@ httpx
 pytest-asyncio
 pydantic-settings
 google-genai
+evaluate
+torch 

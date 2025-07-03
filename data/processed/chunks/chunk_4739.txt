@@ -1,0 +1,17 @@
+omportent un marquage de signalisation indiquant la nature
+ainsi que l'épaisseur du ou des matériaux constitutifs correspondant aux conditions prévisibles d'emploi.
+
+3.10. Protection contre les substances ou préparations dangereuses et agents infectieux
+
+3.10.1. Protection respiratoire
+
+Les équipements de protection individuelle destinés à la protection des voies respiratoires contre les
+substances ou préparations dangereuses ou contre les agents infectieux sont tels qu'ils permettent d'alimenter
+l'utilisateur en air respirable lorsque ce dernier est exposé à une atmosphère polluée ou dont la concentration
+en oxygène est insuffisante.
+
+L'air respirable fourni à l'utilisateur par son équipement de protection individuelle est obtenu par des moyens
+appropriés, notamment par un apport provenant d'une source non polluée ou après filtration de l'air pollué à
+travers le dispositif ou moyen protecteur.
+
+Les matériaux constitutifs et autres composants de ces équipements de protection individuel
