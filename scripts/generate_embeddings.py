@@ -1,4 +1,3 @@
-# scripts/generate_embeddings.py
 """
 Script pour calculer les embeddings des chunks de texte et les sauvegarder.
 """

@@ -1,5 +1,4 @@
 import sys, os
-# Ajoute la racine du projet au PYTHONPATH pour importer backend
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
 import streamlit as st

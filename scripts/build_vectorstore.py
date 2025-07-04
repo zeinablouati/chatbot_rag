@@ -1,4 +1,3 @@
-# scripts/build_vectorstore.py
 import os
 import numpy as np
 import faiss
